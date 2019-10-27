@@ -1,0 +1,1 @@
+type PetType = IDog | ICat;

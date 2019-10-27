@@ -1,0 +1,2 @@
+interface IDog {}
+interface ICat {}
